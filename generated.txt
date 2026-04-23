@@ -1,5 +1,6 @@
-// Auto-generated code for: Build login API
 
-export function handler(req, res) {
-  res.json({ message: "Hello from Build login API" });
-}
++ // Auto-generated code for: Build login API
+
++ export function handler(req, res) {
++   res.json({ message: "Hello from Build login API" });
++ }
